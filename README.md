@@ -29,6 +29,7 @@
 ---
 
 ### ⚡ Operational Core
+
 <p align="left">
   <img src="https://img.shields.io/badge/OS-UBUNTU-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/SHELL-BASH-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -38,6 +39,7 @@
 </p>
 
 ---
+
 ### 🛰️ System Status
 
 <p align="center">
@@ -46,10 +48,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=39FF14&center=false&vCenter=false&multiline=true&width=600&height=120&lines=%24+tail+-f+%2Fvar%2Flog%2Fsilent-operator.log;%5BSYS%5D+HANDSHAKE+ESTABLISHED%3A+VOID_SUBSYSTEM;%5BSYS%5D+CORE_LOGIC_OPTIMIZED%3A+100%25;%5BSYS%5D+STATUS%3A+EXECUTION_STABILIZED" alt="Terminal Run" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&pause=1000&color=39FF14&center=false&vCenter=false&multiline=true&width=600&height=120&lines=%24+tail+-f+%2Fvar%2Flog%2Fsilent-operator.log;%5BSYS%5D+HANDSHAKE+ESTABLISHED%3A+VOID_SUBSYSTEM;%5BSYS%5D+CORE_LOGIC_OPTIMIZED%3A+100%25;%5BSYS%5D+STATUS%3A+EXECUTION_STABILIZED" alt="Terminal Run" />
 </p>
 
 ---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
