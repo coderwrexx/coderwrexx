@@ -1,16 +1,16 @@
-## Hi there 👋
+# 0xShashwajan
 
-<!--
-**coderwrexx/coderwrexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*"Silence is leverage. The work is the signature."*
 
-Here are some ideas to get you started:
+Operating at the intersection of system architecture, hardware integration, and disciplined execution. Focused on building minimal, high-performance environments and engineering tools that bridge the digital and physical worlds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Current Operations
+- **[Project Void Subsystem](https://github.com/coderwrexx/Project-Void-Architecture):** A kernel-level discipline enforcement and isolation architecture for Linux environments. 
+- **Project Habit Anchor:** Architecting the backend data flow and hardware integration for a custom, wall-mounted e-ink display system.
+- **Environment Architecture:** Customizing and optimizing deep Ubuntu workflows for aesthetic perfection and maximum efficiency. 
+
+### 🛠️ Arsenal
+`Linux` `Ubuntu` `Bash` `C++` `System Architecture` `Embedded Hardware`
+
+---
+**[ 1% Mindset. Continuous Execution. ]**
