@@ -46,6 +46,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 </p>
+
 ---
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=blood&no-bg=true&no-frame=true&margin-w=15&column=4" width="100%" />
