@@ -57,18 +57,17 @@
 </p>
 
 ---
+
 <p align="center">
+  <br>
   <details>
-    <summary><b>$ sudo access --root-logs</b></summary>
-    <br>
-    <div align="left">
-      <pre>
-<code>[SYS] AUTHENTICATING... SUCCESS.
+    <summary><b>▼ $ sudo access --root-logs</b></summary>
+    <div align="left" style="margin-top: 15px;">
+      <pre><code>[SYS] AUTHENTICATING... SUCCESS.
 [SYS] USER: SHASHWAJEN_A (UID: 0)
 [SYS] LOCATION: MANALI_OPS_BASE
 [SYS] CURRENT_MISSION: SYSTEM_ARCHITECTURE_OPTIMIZATION
-[SYS] STATUS: BUILDING_IN_THE_SHADOWS</code>
-      </pre>
+[SYS] STATUS: BUILDING_IN_THE_SHADOWS</code></pre>
     </div>
   </details>
 </p>
