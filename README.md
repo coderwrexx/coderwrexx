@@ -27,7 +27,9 @@
 </p>
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=flat-square" alt="Access ID" />
+</p>
 ### 📡 System Status
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
