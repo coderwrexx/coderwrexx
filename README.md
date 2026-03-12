@@ -8,11 +8,11 @@
 </table>
 ### 🛠️ Core Infrastructure
 <p align="left">
-  <img src="https://img.shields.io/badge/OS-UBUNTU-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kernel-LINUX-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-BASH-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logic-PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Systems-C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/UBUNTU-LTS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/KERNEL-VOID-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/BASH-ACTIVE-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PYTHON-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-OPTIMIZED-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 ### 📈 Activity Waveform
 <p align="center">
