@@ -1,13 +1,10 @@
-### 📊 System Telemetry
-<table>
-  <tr>
-    <td width="50%" border="0">
-      <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&bg_color=00000000" />
-    </td>
-    <td width="50%" border="0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&bg_color=00000000" />
-    </td>
-  </tr>
+### 📊 System Telemetry [OVERRIDE ACTIVE]
+<p align="left">
+  <img src="https://img.shields.io/badge/Rank-S%20Tier%20Operator-black?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Architect%20Performance%20Log" />
+</p>
 </table>
 ### 🛠️ Core Infrastructure
 <p align="left">
