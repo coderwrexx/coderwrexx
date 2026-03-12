@@ -58,11 +58,13 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <br>
   <details>
-    <summary><b>▼ $ sudo access --root-logs</b></summary>
-    <div align="left" style="margin-top: 15px;">
+    <summary style="cursor: pointer; font-weight: bold; list-style: none;">
+      ▼ $ sudo access --root-logs
+    </summary>
+    <div align="left" style="display: inline-block; text-align: left; margin-top: 15px;">
       <pre><code>[SYS] AUTHENTICATING... SUCCESS.
 [SYS] USER: SHASHWAJEN_A (UID: 0)
 [SYS] LOCATION: MANALI_OPS_BASE
@@ -70,4 +72,4 @@
 [SYS] STATUS: BUILDING_IN_THE_SHADOWS</code></pre>
     </div>
   </details>
-</p>
+</div>
