@@ -75,4 +75,4 @@
       </details>
     </td>
   </tr>
-</table>j
+</table>
