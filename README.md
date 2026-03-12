@@ -44,8 +44,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&hide_rank=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="41%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwrexx&theme=blood&hide_border=true&background=0d1117&sideNums=FF0000&sideLabels=ffffff&dates=ffffff&stroke=FF0000&ring=FF0000&currStreakNum=FF0000&fire=FF0000" width="90%" />
 </p>
 
 <p align="center">
