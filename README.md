@@ -58,18 +58,21 @@
 
 ---
 
-<div align="center">
-  <br>
-  <details>
-    <summary style="cursor: pointer; font-weight: bold; list-style: none;">
-      ▼ $ sudo access --root-logs
-    </summary>
-    <div align="left" style="display: inline-block; text-align: left; margin-top: 15px;">
-      <pre><code>[SYS] AUTHENTICATING... SUCCESS.
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none;">
+      <details>
+        <summary style="cursor: pointer; font-weight: bold; list-style: none;">
+          ▼ $ sudo access --root-logs
+        </summary>
+        <div align="left" style="margin-top: 15px;">
+          <pre><code>[SYS] AUTHENTICATING... SUCCESS.
 [SYS] USER: SHASHWAJEN_A (UID: 0)
 [SYS] LOCATION: MANALI_OPS_BASE
 [SYS] CURRENT_MISSION: SYSTEM_ARCHITECTURE_OPTIMIZATION
 [SYS] STATUS: BUILDING_IN_THE_SHADOWS</code></pre>
-    </div>
-  </details>
-</div>
+        </div>
+      </details>
+    </td>
+  </tr>
+</table>
