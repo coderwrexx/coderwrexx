@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=CODERWREXX%20::%20SILENT%20OPERATOR&fontSize=30&animation=fadeIn&fontAlignY=35&desc=HANDSHAKE%20ESTABLISHED%20...%20ENCRYPTED%20LINK%20ACTIVE&descAlignY=60&descSize=12" />
+</p>
 ### 📊 System Telemetry
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" />
