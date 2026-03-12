@@ -72,3 +72,22 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 
 </div>
+
+<div align="center">
+<br>
+<pre>
+<code>
+--------------------------------------------------
+[ SECURITY CLEARANCE: LEVEL 9 - OMNIPOTENT ]
+--------------------------------------------------
+USER_ID      : SHASHWAJEN_A
+ACCESS_CODE  : 0xV1KKYY_OPERATOR
+ANNUAL_SYNC  : 25,131_OBJECTS_ESTABLISHED
+INTEGRITY    : 100% [RECORDS_UNBEATABLE]
+STATUS       : BUILDING_IN_THE_SHADOWS
+--------------------------------------------------
+[ SYSTEM_CORE: OPERATIONAL ]
+--------------------------------------------------
+</code>
+</pre>
+</div>
