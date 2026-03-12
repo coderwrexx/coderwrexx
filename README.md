@@ -38,18 +38,18 @@
 </p>
 
 ---
-
 ### 🛰️ System Status
+
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=for-the-badge" alt="Access ID" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=flat-square" alt="Access ID" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=39FF14&center=false&vCenter=false&multiline=true&width=600&height=120&lines=%24+tail+-f+%2Fvar%2Flog%2Fsilent-operator.log;%5BSYS%5D+HANDSHAKE+ESTABLISHED%3A+VOID_SUBSYSTEM;%5BSYS%5D+CORE_LOGIC_OPTIMIZED%3A+100%25;%5BSYS%5D+STATUS%3A+EXECUTION_STABILIZED" alt="Terminal Run" />
 </p>
 
-```zsh
-$ tail -f /var/log/silent-operator.log
-[2026-03-13 00:08] HANDSHAKE ESTABLISHED: VOID_SUBSYSTEM
-[2026-03-13 00:09] CORE_LOGIC_OPTIMIZED: 100%
-[2026-03-13 00:10] STATUS: EXECUTION_STABILIZED
+---
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
