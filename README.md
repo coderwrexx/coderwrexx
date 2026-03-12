@@ -1,22 +1,27 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=CODERWREXX&fontSize=80&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20ARCHITECT%20%7C%20SILENT%20OPERATOR&descSize=20&descAlignY=70" />
+### 📊 System Telemetry
+<table>
+  <tr>
+    <td width="50%" border="0">
+      <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF&bg_color=00000000" />
+    </td>
+    <td width="50%" border="0">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&bg_color=00000000" />
+    </td>
+  </tr>
+</table>
+### 🛠️ Core Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/OS-UBUNTU-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kernel-LINUX-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-BASH-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Systems-C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
-
+### 📈 Activity Waveform
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution." alt="Typing SVG" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
-
----
-
-### 🖥️ Operational Status
-```zsh
-$ systemctl status silent-operator.service
-● silent-operator.service - High-Value Execution Engine
-   Active: active (running) since Thu 2026-03-12 23:00:00 IST
-   Main PID: 1 (shashwajan)
-   Tasks: 1 (limit: 1%)
-   Memory: 0.01% Mindset
-coderwrexx/
-├── 🛡️ project-void/          # Kernel-level isolation
-├── ⚓ habit-anchor/          # E-ink hardware firmware
-└── 🌑 unix-aesthetic/       # Deep Ubuntu optimizations
+### 📈 Activity Waveform
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>****
