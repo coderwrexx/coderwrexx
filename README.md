@@ -60,33 +60,15 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=700&lines=INITIATING+QUANTUM+HANDSHAKE...;NEURAL_LINK_ESTABLISHED;UPLINK_STATUS:+ENCRYPTED;WELCOME+OPERATOR+SHASHWAJEN" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CORE_LOGIC_ACTIVE;UPLINK_ENCRYPTED_SHA256;TERMINAL_ID:_V1KKYY_17" />
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=react-dark&area=true&hide_border=true&bg_color=0d1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=000000" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=000000" width="45%" />
 
-<br>
+<br><br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=transparent&hide_border=true&title_color=00FF00&text_color=ffffff&icon_color=00FF00&rank_icon=github" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=transparent&hide_border=true&title_color=00FF00&text_color=ffffff" /></td>
-</tr>
-</table>
-
-<br>
-
-<pre>
-<code>
-[ ⚠️ WARNING: SENSITIVE DATA AREA ]
---------------------------------------------------
-ID: 0x7E0A21FF
-LOC: 32.2432° N, 77.1892° E (OPS_BASE_MANALI)
-SEC_LEVEL: BLACK_LEVEL_OVERRIDE
-OBJECTIVE: ARCHITECTING_THE_VOID
---------------------------------------------------
-</code>
-</pre>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 
 </div>
