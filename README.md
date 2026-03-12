@@ -15,7 +15,10 @@ Operating at the intersection of system architecture, hardware integration, and 
 ---
 **[ 1% Mindset. Continuous Execution. ]**
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=false&vCenter=false&width=435&lines=Building+in+the+shadows...;Architecting+the+Void+Subsystem...;1%25+Mindset.+Continuous+Execution.;Silent+Operator+Status%3A+Active" alt="Typing SVG" />
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=transparent&hide_border=true&title_color=FFFFFF&text_color=AAAAAA" />
-</p>
+```zsh
+$ systemctl status silent-operator.service
+● silent-operator.service - High-Value Execution Engine
+   Active: active (running) since Thu 2026-03-12 23:00:00 IST
+   Main PID: 1 (shashwajan)
+   Tasks: 1 (limit: 1%)
+   Memory: 0.01% Mindset
