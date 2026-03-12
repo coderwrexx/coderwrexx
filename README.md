@@ -21,7 +21,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
-### 📈 Activity Waveform
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" />
-</p>****
+  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS%20LOGS&color=000000&style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
