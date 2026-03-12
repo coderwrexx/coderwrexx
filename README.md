@@ -14,3 +14,4 @@ Operating at the intersection of system architecture, hardware integration, and 
 
 ---
 **[ 1% Mindset. Continuous Execution. ]**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=false&vCenter=false&width=435&lines=Building+in+the+shadows...;Architecting+the+Void+Subsystem...;1%25+Mindset.+Continuous+Execution.;Silent+Operator+Status%3A+Active" alt="Typing SVG" />
