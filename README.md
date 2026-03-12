@@ -57,6 +57,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwrexx&theme=blood&hide_border=true&background=0d1117&sideNums=FF0000&sideLabels=ffffff&dates=ffffff&stroke=FF0000&ring=FF0000&currStreakNum=FF0000&fire=FF0000" width="90%" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 </p>
 ---
