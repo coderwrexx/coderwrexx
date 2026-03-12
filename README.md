@@ -10,6 +10,11 @@
 | **System Arch** | `████████████████████` | **100%** | 💎 |
 | **Memory Opt** | `██████████████████▒▒` | **94%** | 💎 |
 | **Subsystem IO** | `████████████████████` | **100%** | 💎 |
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=dracula&no-bg=true&margin-w=20&no-frame=true&rank=SSS,SS,S&column=4" />
+### 📈 System Execution Velocity
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=ACTIVE%20EXECUTION%20STREAM&fontSize=20&fontColor=ffffff&animation=fadeIn&desc=STABILITY:%20OPTIMAL%20%7C%20UPTIME:%2099.9%25&descSize=12" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" />
 </p>
