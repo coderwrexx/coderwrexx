@@ -27,14 +27,13 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=flat-square" alt="Access ID" />
-</p>
 ### 📡 System Status
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=flat-square" alt="Access ID" />
+</p>
 ```zsh
 $ tail -f /var/log/silent-operator.log
 [2026-03-13 00:08] HANDSHAKE ESTABLISHED: VOID_SUBSYSTEM
