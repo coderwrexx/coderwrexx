@@ -2,6 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=CODERWREXX&fontSize=80&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20ARCHITECT%20%7C%20SILENT%20OPERATOR&descSize=20&descAlignY=70" />
 </p>
 
+### 📊 System Telemetry [LIVE_FEED]
+![Shashwajen's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=58a6ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af)
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution." alt="Typing SVG" />
 </p>
