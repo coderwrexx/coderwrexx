@@ -10,11 +10,18 @@
 | **System Arch** | `████████████████████` | **100%** | 💎 |
 | **Memory Opt** | `██████████████████▒▒` | **94%** | 💎 |
 | **Subsystem IO** | `████████████████████` | **100%** | 💎 |
-### 📈 System Execution Velocity
+### 🌑 System Heartbeat [REAL-TIME STREAM]
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=ACTIVE%20EXECUTION%20STREAM&fontSize=20&fontColor=ffffff&animation=fadeIn&desc=STABILITY:%20OPTIMAL%20%7C%20UPTIME:%2099.9%25&descSize=12" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderwrexx&theme=2196f3&bg_color=000000&border_radius=5" width="100%" />
+</p>
+
+### 🛰️ Global Execution Pulse
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true&days=30" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&hide_title=true" width="100%" />
+  <img src="https://img.shields.io/badge/CONNECTION-ENCRYPTED-white?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/DATA_STREAM-VERIFIED-white?style=flat-square&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Uptime-99.99%25-white?style=flat-square&labelColor=000000" />
 </p>
