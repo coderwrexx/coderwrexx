@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution.;WELCOME+OPERATOR+SHASHWAJEN" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution.;WELCOME+OPERATOR+SHASHWAJEN" alt="Typing SVG" />
 </p>
 
 ---
@@ -49,7 +49,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwrexx&theme=blood&hide_border=true&background=0d1117&ring=FF0000&fire=FF0000&currStreakNum=FF0000&sideLabels=ffffff&dates=ffffff" width="90%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&bg_color=0d1117&title_color=FF0000&text_color=ffffff" width="45%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&hide_rank=true&include_all_commits=true&count_private=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="48%" />
 </p>
 
 <p align="center">
@@ -58,10 +59,8 @@
 
 ---
 
----
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1500&color=FF0000&center=true&vCenter=true&width=700&lines=%5B+SECURITY+CLEARANCE%3A+LEVEL+9+-+OMNIPOTENT+%5D;%5B+INTEGRITY%3A+100%25+%7C+25,131_LOGS_SYNCED+%5D;%5B+ACCESS_ID%3A+V1KKYY_17+%5D" alt="Animated Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=20&pause=1500&color=FF0000&center=true&vCenter=true&width=700&lines=%5B+SECURITY+CLEARANCE%3A+LEVEL+9+-+OMNIPOTENT+%5D;%5B+INTEGRITY%3A+100%25+%7C+25,131_LOGS_SYNCED+%5D;%5B+ACCESS_ID%3A+V1KKYY_17+%5D" alt="Animated Footer" />
   
   <br><br>
   
