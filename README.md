@@ -10,3 +10,6 @@
 | **System Arch** | `████████████████████` | **100%** | 💎 |
 | **Memory Opt** | `██████████████████▒▒` | **94%** | 💎 |
 | **Subsystem IO** | `████████████████████` | **100%** | 💎 |
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=dracula&no-bg=true&margin-w=20&no-frame=true&rank=SSS,SS,S&column=4" />
+</p>
