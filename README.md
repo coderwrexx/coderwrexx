@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=CODERWREXX&fontSize=80&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20ARCHITECT%20%7C%20SILENT%20OPERATOR&descSize=20&descAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution." alt="Typing SVG" />
+</p>
+
+---
+
 ### 📊 System Telemetry [MASTER OVERRIDE]
 
 <p align="left">
@@ -17,6 +27,7 @@
 | **Ubuntu Workflow Opt.** | `EXPERT` | `████████████████████` | 💎 |
 
 ---
+
 ### ⚡ Operational Core
 <p align="left">
   <img src="https://img.shields.io/badge/OS-UBUNTU-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -27,13 +38,16 @@
 </p>
 
 ---
-### 📡 System Status
+
+### 🛰️ System Status
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=flat-square" alt="Access ID" />
 </p>
+
 ```zsh
 $ tail -f /var/log/silent-operator.log
 [2026-03-13 00:08] HANDSHAKE ESTABLISHED: VOID_SUBSYSTEM
