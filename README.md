@@ -58,11 +58,11 @@
 
 ---
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td align="center" style="border: none;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none;">
+  <tr>
+    <td align="center">
       <details>
-        <summary style="cursor: pointer; font-weight: bold; list-style: none;">
+        <summary style="cursor: pointer; font-weight: bold; list-style: none; outline: none;">
           ▼ $ sudo access --root-logs
         </summary>
         <div align="left" style="margin-top: 15px;">
@@ -75,4 +75,4 @@
       </details>
     </td>
   </tr>
-</table>
+</table>j
