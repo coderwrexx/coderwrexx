@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="41%" />
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="41%" />
 </p>
 
 <p align="center">
