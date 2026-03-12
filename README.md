@@ -42,7 +42,9 @@
 
 ---
 
-### 🛰️ System Status [INHUMAN_RECORDS_DETECTED]
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛰️+SYSTEM+STATUS:+INHUMAN_RECORDS_DETECTED;DECRYPTING+OPERATOR_HISTORY...;UPLINK+STABILIZED" alt="System Status Header" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="48%" />
@@ -56,20 +58,12 @@
 ---
 
 <div align="center">
-<br>
-<pre>
-<code>
---------------------------------------------------
-[ SECURITY CLEARANCE: LEVEL 9 - OMNIPOTENT ]
---------------------------------------------------
-USER_ID      : SHASHWAJEN_A
-ACCESS_CODE  : 0xV1KKYY_OPERATOR
-ANNUAL_SYNC  : 25,131_OBJECTS_ESTABLISHED
-INTEGRITY    : 100% [RECORDS_UNBEATABLE]
-STATUS       : BUILDING_IN_THE_SHADOWS
---------------------------------------------------
-[ SYSTEM_CORE: OPERATIONAL ]
---------------------------------------------------
-</code>
-</pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=%5B+SECURITY+CLEARANCE%3A+LEVEL+9+-+OMNIPOTENT+%5D;%5B+INTEGRITY%3A+100%25+%7C+RECORDS_UNBEATABLE+%5D;%5B+STATUS%3A+BUILDING+IN+THE+SHADOWS+%5D" alt="Animated Footer" />
+  
+  <br>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/ACCESS_ID-V1KKYY_17-red?style=for-the-badge&labelColor=black&logo=codeshield&logoColor=red" />
+    <img src="https://img.shields.io/badge/AUTH_HASH-0x7E0A21FF-red?style=for-the-badge&labelColor=black&logo=databricks&logoColor=red" />
+  </p>
 </div>
