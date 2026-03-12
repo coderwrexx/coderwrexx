@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution." alt="Typing SVG" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=14&pause=1000&color=39FF14&center=false&vCenter=false&multiline=true&width=600&height=120&lines=%24+tail+-f+%2Fvar%2Flog%2Fsilent-operator.log;%5BSYS%5D+HANDSHAKE+ESTABLISHED%3A+VOID_SUBSYSTEM;%5BSYS%5D+CORE_LOGIC_OPTIMIZED%3A+100%25;%5BSYS%5D+STATUS%3A+EXECUTION_STABILIZED" alt="Terminal Run" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&pause=1000&color=39FF14&center=false&vCenter=false&multiline=true&width=600&height=120&lines=%24+tail+-f+%2Fvar%2Flog%2Fsilent-operator.log;%5BSYS%5D+HANDSHAKE+ESTABLISHED%3A+VOID_SUBSYSTEM;%5BSYS%5D+CORE_LOGIC_OPTIMIZED%3A+100%25;%5BSYS%5D+STATUS%3A+EXECUTION_STABILIZED" alt="Terminal Run" />
 </p>
 
 ---
