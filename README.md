@@ -39,13 +39,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛰️+SYSTEM+STATUS:+ACTIVE_RECORDS;DECRYPTING+OPERATOR_HISTORY...;UPLINK+STABILIZED;WELCOME+SHASHWAJEN+A" alt="System Status Header" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderwrexx/coderwrexx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛰️+SYSTEM+STATUS:+ACTIVE_RECORDS;DECRYPTING+OPERATOR_HISTORY...;UPLINK+STABILIZED" />
 </p>
 
 <p align="center">
@@ -53,6 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="41%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
+</p>
 ---
 
 <div align="center">
