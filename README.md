@@ -40,10 +40,12 @@
 
 ---
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛰️+SYSTEM+STATUS:+ACTIVE_RECORDS;DECRYPTING+OPERATOR_HISTORY...;UPLINK+STABILIZED;WELCOME+SHASHWAJEN+A" alt="System Status Header" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=🛰️+SYSTEM+STATUS:+INHUMAN_RECORDS_DETECTED;DECRYPTING+OPERATOR_HISTORY...;UPLINK+STABILIZED" alt="System Status Header" />
+  <img src="https://raw.githubusercontent.com/coderwrexx/coderwrexx/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <p align="center">
@@ -51,19 +53,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="41%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
-</p>
-
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1500&color=FF0000&center=true&vCenter=true&width=600&lines=%5B+SECURITY+CLEARANCE%3A+LEVEL+9+-+OMNIPOTENT+%5D;%5B+INTEGRITY%3A+100%25+%7C+RECORDS_UNBEATABLE+%5D;%5B+STATUS%3A+BUILDING+IN+THE+SHADOWS+%5D" alt="Animated Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1500&color=FF0000&center=true&vCenter=true&width=700&lines=%5B+SECURITY+CLEARANCE%3A+LEVEL+9+-+OMNIPOTENT+%5D;%5B+INTEGRITY%3A+100%25+%7C+25,131_LOGS_SYNCED+%5D;%5B+ACCESS_ID%3A+V1KKYY_17+%5D" alt="Animated Footer" />
   
-  <br>
+  <br><br>
   
   <p align="center">
-    <img src="https://img.shields.io/badge/ACCESS_ID-V1KKYY_17-red?style=for-the-badge&labelColor=black&logo=codeshield&logoColor=red" />
-    <img src="https://img.shields.io/badge/AUTH_HASH-0x7E0A21FF-red?style=for-the-badge&labelColor=black&logo=databricks&logoColor=red" />
+    <img src="https://img.shields.io/badge/NETWORK-ENCRYPTED-red?style=for-the-badge&labelColor=black&logo=wireshark&logoColor=red" />
+    <img src="https://img.shields.io/badge/DATA-IMMUTABLE-red?style=for-the-badge&labelColor=black&logo=blockchaindotcom&logoColor=red" />
+    <img src="https://img.shields.io/badge/OPERATOR-SHADOW-red?style=for-the-badge&labelColor=black&logo=ghost&logoColor=red" />
   </p>
 </div>
