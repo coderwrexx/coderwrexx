@@ -48,10 +48,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=blood&no-bg=true&no-frame=true&margin-w=15&column=4" width="100%" />
-</p>
----
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1500&color=FF0000&center=true&vCenter=true&width=700&lines=%5B+SECURITY+CLEARANCE%3A+LEVEL+9+-+OMNIPOTENT+%5D;%5B+INTEGRITY%3A+100%25+%7C+25,131_LOGS_SYNCED+%5D;%5B+ACCESS_ID%3A+V1KKYY_17+%5D" alt="Animated Footer" />
