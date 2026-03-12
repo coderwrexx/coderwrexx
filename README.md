@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=CODERWREXX&fontSize=80&fontColor=ffffff&animation=twinkling&desc=SYSTEM%20ARCHITECT%20%7C%20SILENT%20OPERATOR&descSize=20&descAlignY=70" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution.;WELCOME+OPERATOR+SHASHWAJEN" alt="Typing SVG" />
 </p>
 
 ---
@@ -39,39 +40,18 @@
 
 ---
 
-### 🛰️ System Status
+### 🛰️ System Status [INHUMAN_RECORDS_DETECTED]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=coderwrexx&label=ACCESS_ID&color=000000&style=for-the-badge" alt="Access ID" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=0d1117" width="41%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=14&pause=1000&color=39FF14&center=false&vCenter=false&multiline=true&width=600&height=120&lines=%24+tail+-f+%2Fvar%2Flog%2Fsilent-operator.log;%5BSYS%5D+HANDSHAKE+ESTABLISHED%3A+VOID_SUBSYSTEM;%5BSYS%5D+CORE_LOGIC_OPTIMIZED%3A+100%25;%5BSYS%5D+STATUS%3A+EXECUTION_STABILIZED" alt="Terminal Run" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Discipline+is+the+bridge+between+goals+and+accomplishment." />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=0d1117&color=FF0000&line=FF0000&point=FF0000" width="100%" />
 </p>
 
 ---
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=CORE_LOGIC_ACTIVE;UPLINK_ENCRYPTED_SHA256;TERMINAL_ID:_V1KKYY_17" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&icon_color=FF0000&bg_color=000000" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderwrexx&layout=compact&theme=blood&hide_border=true&title_color=FF0000&text_color=ffffff&bg_color=000000" width="45%" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&theme=github-dark-red&area=true&hide_border=true&bg_color=000000&color=FF0000&line=FF0000&point=FF0000" width="100%" />
-
-</div>
 
 <div align="center">
 <br>
