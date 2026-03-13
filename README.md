@@ -28,13 +28,13 @@
 
 | Knowledge Domain | Expertise Level | Velocity | Integrity |
 | :--- | :--- | :--- | :---: |
-| **Linux Kernel Hardening** | `TOP TIER` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
-| **Low-Level Systems (C++)** | `ARCHITECT` | `██████████████████▒▒` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
-| **Shell & Automation** | `MASTER` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
-| **Memory Management** | `SENIOR` | `██████████████████▒▒` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
-| **Network Infrastructure** | `OPERATOR` | `████████████████▒▒▒▒` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
-| **Encryption Protocols** | `VERIFIED` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
-| **Ubuntu Workflow Opt.** | `EXPERT` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Linux Kernel Hardening** | `TOP TIER` | `████████████████████` | ![](https://img.shields.io/badge/ENCRYPTED-000000?style=flat-square&logo=lock&logoColor=white) |
+| **Low-Level Systems (C++)** | `ARCHITECT` | `██████████████████▒▒` | ![](https://img.shields.io/badge/VERIFIED-000000?style=flat-square&logo=checkmarx&logoColor=white) |
+| **Shell & Automation** | `MASTER` | `████████████████████` | ![](https://img.shields.io/badge/SIGNED-000000?style=flat-square&logo=gnupg&logoColor=white) |
+| **Memory Management** | `SENIOR` | `██████████████████▒▒` | ![](https://img.shields.io/badge/STABLE-000000?style=flat-square&logo=linux-foundation&logoColor=white) |
+| **Network Infrastructure** | `OPERATOR` | `████████████████▒▒▒▒` | ![](https://img.shields.io/badge/AUDITED-000000?style=flat-square&logo=securityscorecard&logoColor=white) |
+| **Encryption Protocols** | `VERIFIED` | `████████████████████` | ![](https://img.shields.io/badge/HASH_CHECK-000000?style=flat-square&logo=hashnode&logoColor=white) |
+| **Ubuntu Workflow Opt.** | `EXPERT` | `████████████████████` | ![](https://img.shields.io/badge/AUTHORIZED-000000?style=flat-square&logo=keybase&logoColor=white) |
 ---
 
 ### ⚡ Operational Core
