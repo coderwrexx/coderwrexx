@@ -7,10 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=dracula&no-frame=true&no-bg=true&column=4&margin-w=20&rank=SSS,SS,S" alt="Top Level Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=granite&no-frame=true&no-bg=true&column=4&margin-w=20" alt="Executive Trophies" />
 </p>
+
 ---
 
 ### 📊 System Telemetry [MASTER OVERRIDE]
