@@ -14,6 +14,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=050505&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=tokyonight&bg_color=050505&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&border_color=D4AF37&rank_icon=github&show_rank=true" />
+</p>
+
 ---
 
 ### 📊 System Telemetry [MASTER OVERRIDE]
