@@ -7,7 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=granite&no-frame=true&no-bg=true&column=4&margin-w=20" alt="Executive Trophies" />
+  <img src="https://img.shields.io/badge/RANK-SSS_GOD_COMMITTER-D4AF37?style=for-the-badge&logo=github&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ACHIEVEMENT-PRESTIGE_REPO_CREATOR-D4AF37?style=for-the-badge&logo=github&labelColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-ELITE_CORE_OPERATOR-D4AF37?style=for-the-badge&logo=github&labelColor=000000" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_9_ARCHITECT-white?style=for-the-badge&logo=github&labelColor=000000" />
+  <img src="https://img.shields.io/badge/SYSTEM-INTEGRITY_MAXIMIZED-white?style=for-the-badge&logo=github&labelColor=000000" />
 </p>
 
 ---
