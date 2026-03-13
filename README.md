@@ -60,3 +60,13 @@
     <img src="https://img.shields.io/badge/OPERATOR-SHADOW-red?style=for-the-badge&labelColor=black&logo=ghost&logoColor=red" />
   </p>
 </div>
+
+<p align="center">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/Starstruck_Gold.png" width="100" />
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/PullShark_Gold.png" width="100" />
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/GalaxyBrain_Gold.png" width="100" />
+</p>
+<p align="center">
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/PairExtraordinaire_Gold.png" width="100" />
+  <img src="https://github.com/ryo-ma/github-profile-trophy/raw/master/docs/img/OpenSourcerer_Gold.png" width="100" />
+</p>
