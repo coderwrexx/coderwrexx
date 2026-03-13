@@ -9,6 +9,11 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=dracula&no-frame=true&column=4&margin-w=15&rank=SSS,SS,S,AAA&row=1" alt="Executive Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderwrexx&bg_color=050505&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" />
+</p>
+
 ---
 
 ### 📊 System Telemetry [MASTER OVERRIDE]
