@@ -6,6 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Establishing+secure+handshake...;Kernel+integrity+verified.;Executing+Silent+Operations.;1%25+Mindset.+Continuous+Execution.;WELCOME+OPERATOR+SHASHWAJEN" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=coderwrexx&theme=dracula&no-frame=true&column=4&margin-w=15&rank=SSS,SS,S,AAA&row=1" alt="Executive Trophies" />
+</p>
 ---
 
 ### 📊 System Telemetry [MASTER OVERRIDE]
