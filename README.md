@@ -28,14 +28,13 @@
 
 | Knowledge Domain | Expertise Level | Velocity | Integrity |
 | :--- | :--- | :--- | :---: |
-| **Linux Kernel Hardening** | `TOP TIER` | `████████████████████` | 💎 |
-| **Low-Level Systems (C++)** | `ARCHITECT` | `██████████████████▒▒` | 💎 |
-| **Shell & Automation** | `MASTER` | `████████████████████` | 💎 |
-| **Memory Management** | `SENIOR` | `██████████████████▒▒` | 💎 |
-| **Network Infrastructure** | `OPERATOR` | `████████████████▒▒▒▒` | 💎 |
-| **Encryption Protocols** | `VERIFIED` | `████████████████████` | 💎 |
-| **Ubuntu Workflow Opt.** | `EXPERT` | `████████████████████` | 💎 |
-
+| **Linux Kernel Hardening** | `TOP TIER` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Low-Level Systems (C++)** | `ARCHITECT` | `██████████████████▒▒` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Shell & Automation** | `MASTER` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Memory Management** | `SENIOR` | `██████████████████▒▒` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Network Infrastructure** | `OPERATOR` | `████████████████▒▒▒▒` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Encryption Protocols** | `VERIFIED` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
+| **Ubuntu Workflow Opt.** | `EXPERT` | `████████████████████` | ![](https://img.shields.io/badge/SECURE-000000?style=flat-square&logo=keybase&logoColor=white) |
 ---
 
 ### ⚡ Operational Core
