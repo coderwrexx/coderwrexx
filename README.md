@@ -87,7 +87,7 @@
 
 <br><br>
 <p align="right">
-  <img src="https://img.shields.io/badge/CERTIFICATION-CREATED_BY_@CODERWREXX-black?style=flat-square&labelColor=111111&color=black&logo=apple&logoColor=white" height="22" alt="Gold Tier Signature" />
+  <img src="https://img.shields.io/badge/CERTIFICATION-CREATED_BY_@CODERWREXX-FF0000?style=flat-square&labelColor=FF0000&color=FF0000&logo=apple&logoColor=white" height="22" alt="Elite Red Signature" />
 </p>
 
 <br><br>
