@@ -87,7 +87,7 @@
 
 <br><br>
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=16&duration=1&pause=10000000&color=FFFFFF&vCenter=true&width=280&lines=%3C+%3Cspan+style%3D'background-color%3A+%23FF0000%3B+padding%3A+2px+5px%3B+border-radius%3A+3px%3B+color%3A+%23FFFFFF%3B'%3ECreated+by%3C%2Fspan%3E%3E+@coderwrexx" alt="Bold Red-Box Signature" />
+  <img src="https://img.shields.io/badge/CREATED_BY-@CODERWREXX-white?style=flat-square&labelColor=FF0000&color=00000000" height="22" alt="Red Box Signature" />
 </p>
 
 <br><br>
