@@ -99,7 +99,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE+SYNCHRONIZATION+COMPLETE...;1832+ENTRIES+LOGGED+FOR+CY2026;THE+WORK+IS+THE+SIGNATURE.;TERMINATING+SESSION...;EOF" alt="Typing SVG" />
 </p>
 
-<br><br><br>
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&pause=1000&color=888888&width=450&lines=%EF%A3%BF+This+README+completely+created+by+@coderwrexx+%F0%9F%92%BB" alt="Signature" />
+<br><br>
+<p align="right">
+  <img src="https://img.shields.io/badge/_This_README_completely_created_by_@coderwrexx_💻-161616?style=flat-square&labelColor=161616&color=161616" alt="Signature" />
 </p>
