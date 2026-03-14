@@ -87,5 +87,5 @@
 
 <br><br>
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=15&duration=1&pause=10000000&color=FFFFFF&center=false&vCenter=false&width=330&lines=README+completely+created+by+@coderwrexx" alt="SF Pro Bold Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=15&duration=1&pause=10000000&color=FFFFFF&center=false&vCenter=false&width=400&lines=README+completely+created+by+@coderwrexx" alt="SF Pro Bold Signature" />
 </p>
