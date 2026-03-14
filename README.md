@@ -65,20 +65,6 @@
   </p>
 </div>
 
----
-
-### ⚡ Operational Core
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OS-UBUNTU-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/SHELL-BASH-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/CORE-C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOGIC-PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NET-TCP%2FIP-black?style=for-the-badge&logo=wireshark&logoColor=white" />
-</p>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-000000?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/SESSION-ENCRYPTED-000000?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -101,5 +87,5 @@
 
 <br><br>
 <p align="right">
-  <img src="https://img.shields.io/badge/_This_README_completely_created_by_@coderwrexx_💻-161616?style=flat-square&labelColor=161616&color=161616" alt="Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&pause=1000&color=A1A1A1&center=false&vCenter=false&width=380&lines=%EF%A3%BF+README+completely+created+by+@coderwrexx+%F0%9F%92%BB" alt="Apple Signature" />
 </p>
