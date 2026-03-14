@@ -38,6 +38,7 @@
 | **Network Infrastructure** | `OPERATOR` | `████████████████▒▒▒▒` | ![](https://img.shields.io/badge/AUDITED-000000?style=flat-square&logo=securityscorecard&logoColor=white) |
 | **Encryption Protocols** | `VERIFIED` | `████████████████████` | ![](https://img.shields.io/badge/HASH_CHECK-000000?style=flat-square&logo=hashnode&logoColor=white) |
 | **Ubuntu Workflow Opt.** | `EXPERT` | `████████████████████` | ![](https://img.shields.io/badge/AUTHORIZED-000000?style=flat-square&logo=keybase&logoColor=white) |
+
 ---
 
 ### ⚡ Operational Core
@@ -64,4 +65,6 @@
   </p>
 </div>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)](https://github.com/coderwrexx)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=FF0000&text_color=ffffff&bg_color=000000&cache_seconds=1800" alt="V1KKYY's Operational Stats" />
+</p>
