@@ -65,3 +65,10 @@
   </p>
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats-gold-tau-upna124e9x.vercel.app/api?username=coderwrexx&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=FF0000&text_color=ffffff&bg_color=000000" alt="V1KKYY's Operational Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwrexx&theme=tokyonight&hide_border=true&stroke=D4AF37&ring=FF0000&fire=FF0000&currStreakNum=ffffff" alt="V1KKYY's Streak" />
+</p>
