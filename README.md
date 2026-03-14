@@ -87,7 +87,5 @@
 
 <br><br>
 <p align="right">
-  <span style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; color: #FFFFFF; font-size: 14px; letter-spacing: -0.5px;">
-     README completely created by @coderwrexx 💻
-  </span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=14&duration=1&pause=10000000&color=FFFFFF&center=false&vCenter=false&width=330&lines=+README+completely+created+by+@coderwrexx+💻" alt="SF Pro Bold Signature" />
 </p>
