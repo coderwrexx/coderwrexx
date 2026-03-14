@@ -87,7 +87,7 @@
 
 <br><br>
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=16&duration=1&pause=10000000&color=FFFFFF&center=false&vCenter=false&width=330&lines=%3C%3Cspan+style%3D'background%3A%23FF0000%3Bpadding%3A4px+8px%3Bborder-radius%3A2px%3B'%3ECREATED+BY%3C%2Fspan%3E%3E+@CODERWREXX" alt="SF Pro Bold Red Box Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=14&duration=1&pause=10000000&color=FFFFFF&center=false&vCenter=false&width=330&lines=%3C%3Cspan+style%3D'background%3A%23FF0000%3Bpadding%3A5px+8px%3B'%3ECREATED+BY%3C%2Fspan%3E%3E+@CODERWREXX" alt="SF Pro Bold Signature" />
 </p>
 
 <br><br>
