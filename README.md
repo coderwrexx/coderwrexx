@@ -87,5 +87,5 @@
 
 <br><br>
 <p align="right">
-  <img src="https://img.shields.io/badge/%EF%A3%BF_README_completely_created_by_@coderwrexx-white?style=flat-square&logo=apple&logoColor=white&labelColor=000000&color=000000" height="22" alt="Apple Bold Signature" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=15&duration=1&pause=10000000&color=FFFFFF&center=false&vCenter=false&width=330&lines=README+completely+created+by+@coderwrexx" alt="SF Pro Bold Signature" />
 </p>
