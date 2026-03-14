@@ -90,17 +90,6 @@
 
 ---
 
-### 📡 System Telemetry
-
-| Parameter | Status | Logic |
-| :--- | :--- | :--- |
-| **Commit Velocity** | `MAXIMUM` | `STABLE` |
-| **Grid Integrity** | `100% GREEN` | `VERIFIED` |
-| **Encryption** | `AES-256` | `ACTIVE` |
-| **Operator** | `V1KKYY_17` | `AUTHORIZED` |
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/VOICE_COMMS-ENCRYPTED-white?style=for-the-badge&labelColor=000000&logo=signal&logoColor=white" />
   <img src="https://img.shields.io/badge/LOCATION-THE_VOID-white?style=for-the-badge&labelColor=000000&logo=linux&logoColor=white" />
