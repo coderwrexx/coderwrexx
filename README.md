@@ -87,5 +87,8 @@
 
 <br><br>
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&pause=1000&color=A1A1A1&center=false&vCenter=false&width=380&lines=%EF%A3%BF+README+completely+created+by+@coderwrexx+%F0%9F%92%BB" alt="Apple Signature" />
+  <font face="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" color="#888888">
+     README completely created by @coderwrexx 
+  </font>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" height="20" style="vertical-align: middle;" />
 </p>
