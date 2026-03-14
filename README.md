@@ -98,3 +98,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE+SYNCHRONIZATION+COMPLETE...;1832+ENTRIES+LOGGED+FOR+CY2026;THE+WORK+IS+THE+SIGNATURE.;TERMINATING+SESSION...;EOF" alt="Typing SVG" />
 </p>
+
+---
+
+<p align="left">
+  <img src="https://img.shields.io/badge/%F0%9F%92%BB_This_README_completely_created_by-@coderwrexx-000000?style=flat-square&labelColor=161616&color=D4AF37" />
+</p>
