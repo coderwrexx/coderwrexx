@@ -87,5 +87,7 @@
 
 <br><br>
 <p align="right">
-  <img src="https://img.shields.io/badge/%EF%A3%BF_README_completely_created_by_@coderwrexx-%F0%9F%92%BB-black?style=flat-square&logo=apple&logoColor=white" height="22" alt="Apple Bold Signature" />
+  <span style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; color: #FFFFFF; font-size: 14px; letter-spacing: -0.5px;">
+     README completely created by @coderwrexx 💻
+  </span>
 </p>
