@@ -87,5 +87,5 @@
 
 <br><br>
 <p align="right">
-  <img src="https://img.shields.io/badge/%EF%A3%BF_README_completely_created_by_@coderwrexx-%F0%9F%92%BB-1E1E1E?style=flat-square&labelColor=1E1E1E&color=1E1E1E&logo=apple&logoColor=white" alt="Apple Signature Badge" />
+  <img src="https://img.shields.io/badge/%EF%A3%BF_README_completely_created_by_@coderwrexx-%F0%9F%92%BB-black?style=flat-square&logo=apple&logoColor=white" height="22" alt="Apple Bold Signature" />
 </p>
