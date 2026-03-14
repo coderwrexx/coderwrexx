@@ -87,8 +87,5 @@
 
 <br><br>
 <p align="right">
-  <span style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; font-weight: 600; color: #A1A1A1; font-size: 13px;">
-     README completely created by @coderwrexx
-  </span>
-  <img src="https://getemojis.pages.dev/apple/16.0/laptop.png" width="18" height="18" style="vertical-align: middle; margin-left: 4px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=14&duration=1&pause=10000000&color=A1A1A1&center=false&vCenter=false&width=330&lines=%EF%A3%BF+README+completely+created+by+@coderwrexx+%F0%9F%92%BB" alt="Apple Signature" />
 </p>
