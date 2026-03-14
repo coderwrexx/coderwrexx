@@ -85,5 +85,27 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SYNCHRONIZING+VOID+CORE...;INTEGRITY+VERIFIED+@+12336+LOGS;BYE+OPERATOR+SHASHWAJEN;EOF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SYNCHRONIZING+VOID+CORE...;INTEGRITY+VERIFIED+@+12336+LOGS;MADE BY EGO;EOF" alt="Typing SVG" />
+</p>
+
+---
+
+### 📡 System Telemetry
+
+| Parameter | Status | Logic |
+| :--- | :--- | :--- |
+| **Commit Velocity** | `MAXIMUM` | `STABLE` |
+| **Grid Integrity** | `100% GREEN` | `VERIFIED` |
+| **Encryption** | `AES-256` | `ACTIVE` |
+| **Operator** | `V1KKYY_17` | `AUTHORIZED` |
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VOICE_COMMS-ENCRYPTED-white?style=for-the-badge&labelColor=000000&logo=signal&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOCATION-THE_VOID-white?style=for-the-badge&labelColor=000000&logo=linux&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=CORE+SYNCHRONIZATION+COMPLETE...;1832+ENTRIES+LOGGED+FOR+CY2026;THE+WORK+IS+THE+SIGNATURE.;TERMINATING+SESSION...;EOF" alt="Typing SVG" />
 </p>
