@@ -87,8 +87,8 @@
 
 <br><br>
 <p align="right">
-  <span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; color: #A1A1A1; font-size: 14px;">
+  <span style="font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; font-weight: 600; color: #A1A1A1; font-size: 13px;">
      README completely created by @coderwrexx
   </span>
-  <img src="https://help.apple.com/assets/65E0E0A6064D3F5E6407C401/65E0E0A7064D3F5E6407C408/en_US/32333b21008034d60c41d13f8981c2f2.png" width="20" height="20" style="vertical-align: middle; margin-left: 4px;">
+  <img src="https://getemojis.pages.dev/apple/16.0/laptop.png" width="18" height="18" style="vertical-align: middle; margin-left: 4px;">
 </p>
