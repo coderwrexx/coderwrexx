@@ -66,10 +66,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-gold-tau-upna124e9x.vercel.app/api?username=coderwrexx&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=161616" alt="V1KKYY's S-Tier Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-gold-tau-upna124e9x.vercel.app/api?username=coderwrexx&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0D1117" alt="V1KKYY's S-Tier Stats" />
 </p>
 
