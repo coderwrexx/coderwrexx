@@ -85,7 +85,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SYNCHRONIZING+VOID+CORE...;INTEGRITY+VERIFIED+@+12336+LOGS;MADE BY EGO;EOF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=16&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=SYNCHRONIZING+VOID+CORE...;INTEGRITY+VERIFIED+@+12336+LOGS;MADE+BY+EGO;EOF" alt="Typing SVG" />
 </p>
 
 ---
