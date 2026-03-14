@@ -63,3 +63,5 @@
     <img src="https://img.shields.io/badge/OPERATOR-SHADOW-red?style=for-the-badge&labelColor=black&logo=ghost&logoColor=red" />
   </p>
 </div>
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)](https://github.com/YOUR_USERNAME)
