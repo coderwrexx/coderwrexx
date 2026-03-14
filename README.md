@@ -64,4 +64,4 @@
   </p>
 </div>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)](https://github.com/YOUR_USERNAME)
+[![Stats](https://github-readme-stats.vercel.app/api?username=coderwrexx&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true)](https://github.com/coderwrexx)
