@@ -64,11 +64,3 @@
     <img src="https://img.shields.io/badge/OPERATOR-SHADOW-red?style=for-the-badge&labelColor=black&logo=ghost&logoColor=red" />
   </p>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats-gold-tau-upna124e9x.vercel.app/api?username=coderwrexx&show_icons=true&theme=dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&title_color=D4AF37&icon_color=D4AF37&text_color=ffffff&bg_color=0D1117&cache_seconds=1800" alt="V1KKYY's S-Tier Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coderwrexx&theme=dark&hide_border=true&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&background=0D1117" alt="V1KKYY's Operational Streak" />
-</p>
